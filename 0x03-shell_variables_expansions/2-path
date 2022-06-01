@@ -1,2 +1,2 @@
 #!/bin/bash
-exporter CHEMIN= $CHEMIN ://action
+exporter CHEMIN= $CHEMIN :/action
